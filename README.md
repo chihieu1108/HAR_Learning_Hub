@@ -26,17 +26,10 @@ Learning Hub được xây dựng với một số mục tiêu chính:
 
 - Tổng hợp những kiến thức nền tảng và chuyên môn cần thiết.
 - Cung cấp các nguồn tài liệu học tập dưới nhiều hình thức khác nhau.
-- Giúp thành viên mới dễ dàng tìm được tài liệu để bắt đầu.
-- Hạn chế việc mỗi thành viên phải tự tìm kiếm lại những tài liệu đã được sử dụng hoặc đánh giá trước đó.
+- Giúp thành viên dễ dàng tìm được tài liệu để bắt đầu (hạn chế việc phải tự tìm kiếm lại những tài liệu đã được đánh giá trước đó).
 - Tạo ra một nguồn tài liệu chung có thể được kế thừa và tiếp tục phát triển cho các thành viên và các khóa sau.
 
-Learning Hub không đặt mục tiêu xác định một con đường học tập duy nhất. Thứ tự học giữa các lĩnh vực có thể thay đổi tùy thuộc vào mục tiêu, nền tảng kiến thức và hướng nghiên cứu của từng người.
-
-## Đối tượng
-
-Repository chủ yếu dành cho các thành viên trong nhóm và những sinh viên mới bắt đầu tiếp cận với các lĩnh vực được đề cập.
-
-Người học không nhất thiết phải có đầy đủ kiến thức nền tảng trước khi sử dụng repository. Các tài liệu sẽ được tổ chức từ những nội dung cơ bản đến những nội dung chuyên sâu hơn để người học có thể lựa chọn điểm bắt đầu phù hợp với bản thân.
+Các tài liệu sẽ được tổ chức từ những nội dung cơ bản đến những nội dung chuyên sâu hơn để người học có thể lựa chọn điểm bắt đầu phù hợp với bản thân. Learning Hub **KHÔNG** đặt mục tiêu xác định một con đường học tập duy nhất. Thứ tự học giữa các lĩnh vực có thể thay đổi tùy thuộc vào mục tiêu, nền tảng kiến thức và hướng nghiên cứu của từng người.
 
 ## Các lĩnh vực học tập
 
