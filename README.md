@@ -90,16 +90,6 @@ Nội dung có thể bao gồm:
 
 [Đi đến tài liệu HAR](./Learning/HAR/README.md)
 
-## Cách sử dụng
-
-Learning Hub được tổ chức theo từng lĩnh vực. Mỗi lĩnh vực sẽ có một khu vực tài liệu riêng, trong đó các nội dung được phân chia thành những chủ đề nhỏ hơn.
-
-Người học có thể bắt đầu từ những kiến thức mình còn thiếu thay vì phải đi theo một thứ tự cố định.
-
-Các tài liệu được cung cấp dưới nhiều hình thức khác nhau. Khi một nội dung có nhiều nguồn tài liệu, người học có thể lựa chọn nguồn phù hợp với cách học và mục tiêu của mình.
-
-Một số tài liệu có thể yêu cầu kiến thức nền tảng trước đó. Các yêu cầu này sẽ được ghi chú khi cần thiết để người học có thể xác định những kiến thức nên bổ sung.
-
 ## Phân loại tài liệu
 
 Các tài liệu trong Learning Hub có thể được phân loại theo mục đích sử dụng:
@@ -118,23 +108,7 @@ Các tài liệu bổ sung có thể hữu ích nhưng không nhất thiết ph�
 
 Việc phân loại nhằm giúp người học nhanh chóng xác định tài liệu nào phù hợp với mục đích hiện tại, thay vì phải đọc toàn bộ danh sách tài nguyên.
 
-## Nguyên tắc lựa chọn tài liệu
-
-Khi bổ sung tài liệu vào Learning Hub, ưu tiên những nguồn có chất lượng và khả năng sử dụng lâu dài.
-
-Một số nguyên tắc được ưu tiên:
-
-- Ưu tiên nguồn chính thống và có độ tin cậy cao.
-- Ưu tiên tài liệu có nội dung rõ ràng và phù hợp với mục tiêu học tập.
-- Ưu tiên tài liệu có tính thực hành khi phù hợp.
-- Với các chủ đề nghiên cứu, ưu tiên Research Papers, Survey Papers và nguồn gốc của Dataset.
-- Hạn chế đưa vào quá nhiều tài liệu trùng lặp nếu chúng không mang lại giá trị khác biệt rõ ràng.
-- Khi có thể, ưu tiên link tới nguồn chính thức thay vì bản sao của tài liệu.
-- Tài liệu có thể được thay thế hoặc cập nhật khi xuất hiện nguồn tốt hơn.
-
-Learning Hub không nhằm mục đích đánh giá tuyệt đối tài liệu nào là "tốt nhất". Việc lựa chọn tài liệu có thể phụ thuộc vào trình độ và mục tiêu của từng người học.
-
-## Cấu trúc Repository
+## Cấu trúc Repository (Tạm thời)
 
 ```text
 Learning-Hub/
@@ -154,37 +128,6 @@ Learning-Hub/
 ```
 
 Mỗi lĩnh vực sẽ được phát triển độc lập và có thể được mở rộng thành nhiều nhóm nội dung, tài liệu và tài nguyên khác nhau khi repository phát triển.
-
-## Định hướng phát triển
-
-Learning Hub được xây dựng theo hướng mở và có thể tiếp tục mở rộng theo nhu cầu của nhóm.
-
-Trong tương lai, repository có thể bổ sung thêm các lĩnh vực liên quan như:
-
-- Deep Learning chuyên sâu
-- Signal Processing
-- FPGA
-- Embedded Linux
-- TinyML
-- Computer Vision
-- Robotics
-- Các lĩnh vực khác phục vụ cho định hướng học tập và nghiên cứu của nhóm.
-
-Bên cạnh việc bổ sung lĩnh vực mới, các tài liệu hiện có cũng có thể được cập nhật, thay thế và bổ sung dựa trên kinh nghiệm của các thành viên trong quá trình học tập và nghiên cứu.
-
-## Đóng góp
-
-Learning Hub là tài nguyên chung của nhóm. Các thành viên có thể đóng góp bằng cách:
-
-- Bổ sung tài liệu hữu ích.
-- Đề xuất nguồn tài liệu mới.
-- Cập nhật hoặc thay thế các link đã không còn phù hợp.
-- Bổ sung Research Papers, Dataset hoặc Documentation có giá trị.
-- Chia sẻ những tài liệu đã được sử dụng và đánh giá là hữu ích.
-
-Mục tiêu của việc đóng góp không phải là làm repository lớn nhất có thể, mà là duy trì một nguồn tài liệu có cấu trúc, hữu ích và có thể tiếp tục được sử dụng bởi các thành viên trong tương lai.
-
----
 
 **Learning Hub**
 
